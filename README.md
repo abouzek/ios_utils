@@ -1,2 +1,2 @@
 # ios_utils
-A collection of useful utilities for iOS development
+A collection of utilities useful when developing for iOS
